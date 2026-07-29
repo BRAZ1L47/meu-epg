@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator_info_name="Custom EPG Generator" generator_info_url="https://github.com">
+  <channel id="veja_plus">
+    <display-name>Veja+</display-name>
+  </channel>
+  <channel id="cirque_du_soleil">
+    <display-name>Cirque Du Soleil</display-name>
+  </channel>
+  <channel id="fit_dance">
+    <display-name>Fit Dance</display-name>
+  </channel>
+  <channel id="ideias_incriveis">
+    <display-name>Ideias Incríveis</display-name>
+  </channel>
+  <channel id="canal_artesanato">
+    <display-name>Canal do Artesanato</display-name>
+  </channel>
+  <channel id="diatv">
+    <display-name>DiaTV</display-name>
+  </channel>
+  <channel id="cultne_tv">
+    <display-name>Cultne.tv</display-name>
+  </channel>
+  <channel id="nerdshow">
+    <display-name>NerdShow</display-name>
+  </channel>
+  <channel id="sato_plus">
+    <display-name>Sato+</display-name>
+  </channel>
+  <channel id="tv_sonata">
+    <display-name>TV Sonata</display-name>
+  </channel>
+  <channel id="whe_play">
+    <display-name>Whe Play</display-name>
+  </channel>
+  <channel id="canal_saude">
+    <display-name>Canal Saúde</display-name>
+  </channel>
+  <channel id="manual_do_mundo">
+    <display-name>Manual do Mundo</display-name>
+  </channel>
+  <channel id="ijui_play">
+    <display-name>Ijuí Play</display-name>
+  </channel>
+  <channel id="demand_africa">
+    <display-name>Demand Africa</display-name>
+  </channel>
+  <channel id="tv_unesp">
+    <display-name>TV Unesp</display-name>
+  </channel>
+  <channel id="tv_ufop">
+    <display-name>TV UFOP</display-name>
+  </channel>
+  <channel id="unbtv">
+    <display-name>UnbTV</display-name>
+  </channel>
+  <channel id="canal_plural">
+    <display-name>Canal Plural</display-name>
+  </channel>
+  <channel id="viva_e_eduque">
+    <display-name>Viva e Eduque</display-name>
+  </channel>
+  <channel id="parana_turismo">
+    <display-name>Paraná Turismo</display-name>
+  </channel>
+  <channel id="vambora_channel">
+    <display-name>Vambora Channel</display-name>
+  </channel>
+  <channel id="travel_plus">
+    <display-name>Travel+</display-name>
+  </channel>
+  <channel id="tudo_e_viagem">
+    <display-name>Tudo é Viagem</display-name>
+  </channel>
+  <channel id="urban_travel">
+    <display-name>Urban Travel</display-name>
+  </channel>
+  <channel id="drone_tv">
+    <display-name>Drone TV</display-name>
+  </channel>
+  <channel id="hallo_doc">
+    <display-name>Hallo! Doc.</display-name>
+  </channel>
+  <channel id="hallo_brasil">
+    <display-name>Hallo! Brasil</display-name>
+  </channel>
+  <channel id="hallo_movies">
+    <display-name>Hallo! Movies</display-name>
+  </channel>
+  <channel id="hallo_series">
+    <display-name>Hallo! Series</display-name>
+  </channel>
+  <channel id="hallo_dorama">
+    <display-name>Hallo! Dorama</display-name>
+  </channel>
+  <channel id="urban_series">
+    <display-name>Urban Series</display-name>
+  </channel>
+  <channel id="urban_movies">
+    <display-name>Urban Movies</display-name>
+  </channel>
+  <channel id="sony_one_emocoes">
+    <display-name>Sony One Emoções</display-name>
+  </channel>
+  <channel id="admiradores_7_arte">
+    <display-name>Admiradores da 7 Arte</display-name>
+  </channel>
+  <channel id="cine_classicos_cinema">
+    <display-name>Cine Clássicos Cinema</display-name>
+  </channel>
+  <channel id="fox_kids">
+    <display-name>Fox Kids</display-name>
+  </channel>
+  <channel id="jetix">
+    <display-name>Jetix</display-name>
+  </channel>
+  <channel id="nbx">
+    <display-name>NBX</display-name>
+  </channel>
+  <channel id="urban_kids">
+    <display-name>Urban Kids</display-name>
+  </channel>
+  <channel id="kidmais">
+    <display-name>Kidmais</display-name>
+  </channel>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="veja_plus">
+    <title lang="pt">Veja+</title>
+    <desc lang="pt">Transmissão contínua do canal Veja+.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="cirque_du_soleil">
+    <title lang="pt">Cirque Du Soleil</title>
+    <desc lang="pt">Transmissão contínua do canal Cirque Du Soleil.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="fit_dance">
+    <title lang="pt">Fit Dance</title>
+    <desc lang="pt">Transmissão contínua do canal Fit Dance.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="ideias_incriveis">
+    <title lang="pt">Ideias Incríveis</title>
+    <desc lang="pt">Transmissão contínua do canal Ideias Incríveis.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="canal_artesanato">
+    <title lang="pt">Canal do Artesanato</title>
+    <desc lang="pt">Transmissão contínua do canal Canal do Artesanato.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="diatv">
+    <title lang="pt">DiaTV</title>
+    <desc lang="pt">Transmissão contínua do canal DiaTV.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="cultne_tv">
+    <title lang="pt">Cultne.tv</title>
+    <desc lang="pt">Transmissão contínua do canal Cultne.tv.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="nerdshow">
+    <title lang="pt">NerdShow</title>
+    <desc lang="pt">Transmissão contínua do canal NerdShow.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="sato_plus">
+    <title lang="pt">Sato+</title>
+    <desc lang="pt">Transmissão contínua do canal Sato+.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="tv_sonata">
+    <title lang="pt">TV Sonata</title>
+    <desc lang="pt">Transmissão contínua do canal TV Sonata.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="whe_play">
+    <title lang="pt">Whe Play</title>
+    <desc lang="pt">Transmissão contínua do canal Whe Play.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="canal_saude">
+    <title lang="pt">Canal Saúde</title>
+    <desc lang="pt">Transmissão contínua do canal Canal Saúde.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="manual_do_mundo">
+    <title lang="pt">Manual do Mundo</title>
+    <desc lang="pt">Transmissão contínua do canal Manual do Mundo.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="ijui_play">
+    <title lang="pt">Ijuí Play</title>
+    <desc lang="pt">Transmissão contínua do canal Ijuí Play.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="demand_africa">
+    <title lang="pt">Demand Africa</title>
+    <desc lang="pt">Transmissão contínua do canal Demand Africa.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="tv_unesp">
+    <title lang="pt">TV Unesp</title>
+    <desc lang="pt">Transmissão contínua do canal TV Unesp.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="tv_ufop">
+    <title lang="pt">TV UFOP</title>
+    <desc lang="pt">Transmissão contínua do canal TV UFOP.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="unbtv">
+    <title lang="pt">UnbTV</title>
+    <desc lang="pt">Transmissão contínua do canal UnbTV.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="canal_plural">
+    <title lang="pt">Canal Plural</title>
+    <desc lang="pt">Transmissão contínua do canal Canal Plural.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="viva_e_eduque">
+    <title lang="pt">Viva e Eduque</title>
+    <desc lang="pt">Transmissão contínua do canal Viva e Eduque.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="parana_turismo">
+    <title lang="pt">Paraná Turismo</title>
+    <desc lang="pt">Transmissão contínua do canal Paraná Turismo.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="vambora_channel">
+    <title lang="pt">Vambora Channel</title>
+    <desc lang="pt">Transmissão contínua do canal Vambora Channel.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="travel_plus">
+    <title lang="pt">Travel+</title>
+    <desc lang="pt">Transmissão contínua do canal Travel+.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="tudo_e_viagem">
+    <title lang="pt">Tudo é Viagem</title>
+    <desc lang="pt">Transmissão contínua do canal Tudo é Viagem.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="urban_travel">
+    <title lang="pt">Urban Travel</title>
+    <desc lang="pt">Transmissão contínua do canal Urban Travel.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="drone_tv">
+    <title lang="pt">Drone TV</title>
+    <desc lang="pt">Transmissão contínua do canal Drone TV.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="hallo_doc">
+    <title lang="pt">Hallo! Doc.</title>
+    <desc lang="pt">Transmissão contínua do canal Hallo! Doc..</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="hallo_brasil">
+    <title lang="pt">Hallo! Brasil</title>
+    <desc lang="pt">Transmissão contínua do canal Hallo! Brasil.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="hallo_movies">
+    <title lang="pt">Hallo! Movies</title>
+    <desc lang="pt">Transmissão contínua do canal Hallo! Movies.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="hallo_series">
+    <title lang="pt">Hallo! Series</title>
+    <desc lang="pt">Transmissão contínua do canal Hallo! Series.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="hallo_dorama">
+    <title lang="pt">Hallo! Dorama</title>
+    <desc lang="pt">Transmissão contínua do canal Hallo! Dorama.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="urban_series">
+    <title lang="pt">Urban Series</title>
+    <desc lang="pt">Transmissão contínua do canal Urban Series.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="urban_movies">
+    <title lang="pt">Urban Movies</title>
+    <desc lang="pt">Transmissão contínua do canal Urban Movies.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="sony_one_emocoes">
+    <title lang="pt">Sony One Emoções</title>
+    <desc lang="pt">Transmissão contínua do canal Sony One Emoções.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="admiradores_7_arte">
+    <title lang="pt">Admiradores da 7 Arte</title>
+    <desc lang="pt">Transmissão contínua do canal Admiradores da 7 Arte.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="cine_classicos_cinema">
+    <title lang="pt">Cine Clássicos Cinema</title>
+    <desc lang="pt">Transmissão contínua do canal Cine Clássicos Cinema.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="fox_kids">
+    <title lang="pt">Fox Kids</title>
+    <desc lang="pt">Transmissão contínua do canal Fox Kids.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="jetix">
+    <title lang="pt">Jetix</title>
+    <desc lang="pt">Transmissão contínua do canal Jetix.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="nbx">
+    <title lang="pt">NBX</title>
+    <desc lang="pt">Transmissão contínua do canal NBX.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="urban_kids">
+    <title lang="pt">Urban Kids</title>
+    <desc lang="pt">Transmissão contínua do canal Urban Kids.</desc>
+  </programme>
+  <programme start="20260729130000 -0300" stop="20260828130000 -0300" channel="kidmais">
+    <title lang="pt">Kidmais</title>
+    <desc lang="pt">Transmissão contínua do canal Kidmais.</desc>
+  </programme>
+</tv>
